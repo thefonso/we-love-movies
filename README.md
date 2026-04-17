@@ -1,6 +1,6 @@
 # We Love Movies
-
-Back-end live url: https://we-love-movies-q050.onrender.com/movies
+Front-end live: https://we-love-movies-front-6l6p.onrender.com/
+Back-end live: https://we-love-movies-q050.onrender.com/movies
 
 
 ## Installation
