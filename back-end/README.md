@@ -7,6 +7,7 @@ Backend code that displays reviews of movies
 1. Run `cp ./back-end/.env.sample ./back-end/.env`.
 1. Update the `./back-end/.env` file with the connection URL's to your PostgreSQL database instances.
 1. cd back-end
+1. npm install
 1. npx knex migrate:latest <--run all migrations
 1. npx knex migrate:rollback <--roll them all back if needed
 1. npx knex migrate:list <-- see who is pending
